@@ -1,0 +1,3 @@
+﻿User-agent: *
+Disallow: /*?*
+Sitemap: https://shollys.github.io/sitemap.xml
